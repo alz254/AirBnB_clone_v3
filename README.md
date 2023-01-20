@@ -154,7 +154,8 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Allan Ndonga - [Github](https://github.com/alz254) 
+Allan Ndonga - [Github](https://github.com/alz254)
+
 Collins Ng'eno - [Github](https://github.com/yrncollo)
 
 Third part of Airbnb
